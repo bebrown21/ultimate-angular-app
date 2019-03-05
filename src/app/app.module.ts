@@ -32,14 +32,3 @@ export const ROUTES: Routes = [];
   ]
 })
 export class AppModule {}
-
-/*
-  var config = {
-    apiKey: "AIzaSyAVIjbntSfa8YXUUAiKF0zxW-E-8gn7kg8",
-    authDomain: "ultimate-angular-fitness-fca69.firebaseapp.com",
-    databaseURL: "https://ultimate-angular-fitness-fca69.firebaseio.com",
-    projectId: "ultimate-angular-fitness-fca69",
-    storageBucket: "ultimate-angular-fitness-fca69.appspot.com",
-    messagingSenderId: "454175522787"
-  };
-*/
